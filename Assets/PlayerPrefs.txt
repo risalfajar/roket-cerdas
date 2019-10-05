@@ -1,0 +1,10 @@
+*Integer Keys:
+High Score 1
+High Score 2
+High Score 3
+High Score 4
+High Score 5
+Coins
+Selected Player
+Player 1 Unlocked
+Player 2 Unlocked
